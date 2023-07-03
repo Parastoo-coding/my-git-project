@@ -3,3 +3,7 @@ h1 {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
+hr {
+  color: blueviolet;
+  max-width: 400px;
+}
